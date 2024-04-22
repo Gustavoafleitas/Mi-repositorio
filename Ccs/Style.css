@@ -1,0 +1,66 @@
+.Logo {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#menu {
+    background-color: #0169aa;
+    color: white;
+    padding: 0px;
+
+}
+
+div a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0169aa;
+
+}
+
+#navegador {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+section {
+    padding-bottom: 5px;
+}
+
+footer p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: larger;
+    text-align: center;
+    color: white;
+    background-color: #0169aa;
+}
+
+#titulo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: #e20514;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 1px;
+}
+
+#mapa {
+    border-radius: 5px;
+    border: solid 2px #0169aa;
+
+}
+
+.parrafo {
+    text-align: center;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: #e20514;
+}
+
+#club {
+    width: 50%;
+    height: 50%;
+}
